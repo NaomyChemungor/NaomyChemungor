@@ -1,6 +1,6 @@
 - 👋 Greetings, I'm @NaomyChemungor!
-- 👀 Passionate about Data and Finance Analytics
-- 🌱 Actively advancing my skills in Python, SQL,AI, and Machine Learning
+- 👀 Passionate about Data Engineering and Analytics
+- 🌱 Actively advancing my skills in Python, SQL and Cloud Computing
 - 💞️ Open to collaboration opportunities in the field of Data Analytics
 - 📫  Connect with me on LinkedIn: Naomy Chemungor
 
