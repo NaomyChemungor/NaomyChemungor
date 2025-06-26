@@ -1,4 +1,4 @@
-!<h1>Hi, I'm Naomy! <br/>
+<h1>Hi, I'm Naomy! <br/>
   <a href="https://github.com/NaomyChemungor">Data Scientist</a>, 
   <a href="https://www.linkedin.com/in/naomychemungor/">Analytics Engineer</a>, 
   <a href="https://www.youtube.com/yourchannel">Microsoft Power BI Enthusiast</a>
