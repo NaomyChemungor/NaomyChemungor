@@ -5,7 +5,7 @@
 </h1>
 
 <!-- DATA SCIENCE PROJECTS -->
-<h2>🧠 Data Science Projects</h2>
+<h2>🧠 Data Science + Engineering  Projects</h2>
 <ul>
   <li><b>Portfolio Website</b> – <a href="https://github.com/NaomyChemungor/portfolio">GitHub Repo</a></li>
   <li><b>Project 2 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project2">GitHub Repo</a></li>
@@ -13,7 +13,7 @@
 </ul>
 
 <!-- ANALYTICS ENGINEERING PROJECTS -->
-<h2>📊 Analytics Engineering Projects</h2>
+<h2>📊 SQL Projects</h2>
 <ul>
   <li><b>Portfolio Website</b> – <a href="https://github.com/NaomyChemungor/portfolio">GitHub Repo</a></li>
   <li><b>Project 2 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project2">GitHub Repo</a></li>
