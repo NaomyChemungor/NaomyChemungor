@@ -5,7 +5,7 @@
 </h1>
 
 <!-- DATA SCIENCE PROJECTS -->
-<h2>🧠 Data Science</h2>
+<h2>🧠 Data Modleing/Engineering</h2>
 <ul>
 
   <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
@@ -14,14 +14,14 @@
 
 
 <!-- PLATFORM-SPECIFIC PROJECTS -->
-<h2>🖥️ Microsoft Power BI + Fabric Projects</h2>
+<h2>🖥️ Machine Learning</h2>
 <ul>
 >
   <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
 </ul>
 
 <!-- ANALYTICS ENGINEERING PROJECTS -->
-<h2>📊 SQL Projects</h2>
+<h2>📊 Visualization</h2>
 <ul>
   <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
 </ul>
