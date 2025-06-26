@@ -5,24 +5,20 @@
 </h1>
 
 <!-- DATA SCIENCE PROJECTS -->
-<h2>🧠 Data Modeling/Engineering</h2>
+<h2>🧠 Data Engineering > ML/AI > Visualization Projects </h2>
 <ul>
 
   <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
 </ul>
 
 <!-- PLATFORM-SPECIFIC PROJECTS -->
-<h2>🖥️ Machine Learning/Airtificial Intelligence(ML/AI)</h2>
+<h2>🖥️ Microsoft Power BI + Fabric Projects </h2>
 <ul>
 >
   <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
 </ul>
 
-<!-- ANALYTICS ENGINEERING PROJECTS -->
-<h2>Visualization</h2>
-<ul>
-  <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
-</ul>
+
 <!-- POPULAR CONTENT -->
 <h2>📺 Youtube</h2>
 <ul>
