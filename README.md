@@ -1,10 +1,21 @@
 <h1>Hi, I'm Naomy! <br/>
-  <a>Analytics Engineer</a> 
-  <a>Youtube</a>
+  <a href="https://github.com/NaomyChemungor/">Analytics Engineer</a> ,
+  <a href ="https://www.linkedin.com/in/naomy-chemungor/")>Data Professional</a>,
+  <a href="https://github.com/NaomyChemungor">Youtuber</a>
 </h1>
 
 <!-- DATA SCIENCE PROJECTS -->
-<h2>🧠 Data Science + Engineering  Projects</h2>
+<h2>🧠 Data Analytics + Science + Engineering  Projects</h2>
+<ul>
+  <li><b>Portfolio Website</b> – <a href="https://github.com/NaomyChemungor/portfolio">GitHub Repo</a></li>
+  <li><b>Project 2 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project2">GitHub Repo</a></li>
+  <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
+</ul>
+
+
+
+<!-- PLATFORM-SPECIFIC PROJECTS -->
+<h2>🖥️ Platform-Specific Projects (Microsoft Power BI + Fabric)</h2>
 <ul>
   <li><b>Portfolio Website</b> – <a href="https://github.com/NaomyChemungor/portfolio">GitHub Repo</a></li>
   <li><b>Project 2 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project2">GitHub Repo</a></li>
@@ -18,15 +29,6 @@
   <li><b>Project 2 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project2">GitHub Repo</a></li>
   <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
 </ul>
-
-<!-- PLATFORM-SPECIFIC PROJECTS -->
-<h2>🖥️ Platform-Specific Projects (Microsoft Power BI + Fabric)</h2>
-<ul>
-  <li><b>Portfolio Website</b> – <a href="https://github.com/NaomyChemungor/portfolio">GitHub Repo</a></li>
-  <li><b>Project 2 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project2">GitHub Repo</a></li>
-  <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
-</ul>
-
 <!-- POPULAR CONTENT -->
 <h2>📺 Popular Content</h2>
 <ul>
