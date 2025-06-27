@@ -5,7 +5,7 @@
 </h1>
 
 <!-- DATA SCIENCE PROJECTS -->
-<h2>🧠 Data Engineering > ML/AI > Visualization Projects </h2>
+<h2>🧠 Data : Engineering > ML/AI > Visualization Projects </h2>
 <ul>
 
   <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
