@@ -8,7 +8,7 @@
 <h2>🧠 Data : Engineering > ML/AI > Visualization Projects </h2>
 <ul>
 
-  <li><b>Brand_Analysis_Facebook</b> – <a href="https://github.com/NaomyChemungor/Brand_Analysis_Facebook">Brand_Analysis_Facebook</a></li>
+  <li><b>Brand_Analysis_Facebook</b> – <a href="https://github.com/NaomyChemungor/Brand_Analysis_Facebook">Github Repo</a></li>
 </ul>
 
 <!-- PLATFORM-SPECIFIC PROJECTS -->
