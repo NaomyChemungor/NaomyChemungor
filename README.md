@@ -1,7 +1,7 @@
 <h1>Hi, I'm Naomy! <br/>
   <a href="https://github.com/NaomyChemungor/">Analytics Engineer</a>,
-  <a href ="https://www.linkedin.com/in/naomy-chemungor/")>Data Scientist</a>,
-  <a href="https://github.com/NaomyChemungor">Youtuber</a>
+  <a href ="https://www.linkedin.com/in/naomy-chemungor/">Data Scientist</a>,
+  <a href="https://www.youtube.com/@SQL_Quest">Youtuber</a>
 </h1>
 
 <!-- DATA SCIENCE PROJECTS -->
@@ -20,7 +20,7 @@
 
 
 <!-- POPULAR CONTENT -->
-<h2>📺 Youtube (@SQL_Quest)</h2>
+<h2>📺 Youtube <a href="https://www.youtube.com/@SQL_Quest">@SQL_Quest</h2>
 <ul>
   <li><a href="https://your-link.com">Video Title</a></li>
 </ul>
