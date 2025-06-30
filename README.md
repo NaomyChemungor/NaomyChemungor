@@ -9,12 +9,12 @@
 <ul>
 
   <li><b>Brand_Analysis_Facebook</b> – <a href="https://github.com/NaomyChemungor/Brand_Analysis_Facebook">Github Repo</a></li>
+  <li><b>Traffic-exploratory-data-analysis</b> – <a href="https://github.com/NaomyChemungor/Traffic-exploratory-data-analysis">GitHub Repo</a></li>
 </ul>
 
 <!-- PLATFORM-SPECIFIC PROJECTS -->
 <h2>🖥️ Microsoft Power BI + Fabric Projects </h2>
 <ul>
->
   <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
 </ul>
 
