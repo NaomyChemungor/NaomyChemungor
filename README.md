@@ -7,7 +7,6 @@
 <!-- DATA SCIENCE PROJECTS -->
 <h2>🧠 Data : Engineering > ML/AI > Visualization Projects </h2>
 <ul>
-
   <li><b>Brand_Analysis_Facebook</b> – <a href="https://github.com/NaomyChemungor/Brand_Analysis_Facebook">Github Repo</a></li>
   <li><b>Traffic-exploratory-data-analysis</b> – <a href="https://github.com/NaomyChemungor/Traffic-exploratory-data-analysis">GitHub Repo</a></li>
 </ul>
