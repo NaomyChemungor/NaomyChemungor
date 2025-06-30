@@ -10,7 +10,7 @@
   <li><b>Brand_Analysis_Facebook</b> – <a href="https://github.com/NaomyChemungor/Brand_Analysis_Facebook">Github Repo</a></li>
   <li><b>Traffic-exploratory-data-analysis</b> – <a href="https://github.com/NaomyChemungor/Traffic-exploratory-data-analysis">GitHub Repo</a></li>
   <li><b>Health_Risk_Prediction</b> – <a href="https://github.com/NaomyChemungor/Health_Risk_Prediction">GitHub Repo</a></li>
-  <li><b>Covid19 Impact</b> – <a href="https://github.com/NaomyChemungor/Health_Risk_Prediction">GitHub Repo</a></li>
+  <li><b>Covid19 Impact</b> – <a href="https://github.com/NaomyChemungor/Covid19_Impact_WDI">GitHub Repo</a></li>
 </ul>
 
 <!-- PLATFORM-SPECIFIC PROJECTS -->
