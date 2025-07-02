@@ -16,14 +16,14 @@
 <!-- PLATFORM-SPECIFIC PROJECTS -->
 <h3>🖥️ Microsoft Power BI + Fabric Projects </h3>
 <ul>
-  <li><b>Project 3 Title Here</b> – <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
+  <li><b>Project 3 Title Here</b> <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
 </ul>
 
 
 <!-- POPULAR CONTENT -->
 <h3>✍️ Medium <a href="https://medium.com/@naomychemungor">@naomychemungor</a></h3>
 <ul>
-  <li><a href="https://medium.com/@naomychemungor">Visit Medium Profile</a></li>
+  <li><b>Data Wrangling & ML modeling in Fabric</b> <a href="https://medium.com/@naomychemungor">Medium Blog</a></li>
 </ul>
 
 
