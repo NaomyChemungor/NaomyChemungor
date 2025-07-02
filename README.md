@@ -21,10 +21,11 @@
 
 
 <!-- POPULAR CONTENT -->
-<h3>📺 Youtube <a href="https://www.youtube.com/@SQL_Quest">@SQL_Quest</h3>
+<h3>✍️ Medium <a href="https://medium.com/@naomychemungor">@naomychemungor</a></h3>
 <ul>
-  <li><a href="https://your-link.com">Video Title</a></li>
+  <li><a href="https://medium.com/@naomychemungor">Visit Medium Profile</a></li>
 </ul>
+
 
 <!-- CONNECT WITH ME -->
 <h3>🤳 Connect with me</h3>
