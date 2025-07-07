@@ -16,7 +16,7 @@
 <!-- PLATFORM-SPECIFIC PROJECTS -->
 <h3>🖥️ Microsoft Power BI + Fabric Projects </h3>
 <ul>
-  <li><b>Project 3 Title Here</b> <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
+  <li><b>Finance Report</b> <a href="https://github.com/NaomyChemungor/Project3">GitHub Repo</a></li>
 </ul>
 
 
