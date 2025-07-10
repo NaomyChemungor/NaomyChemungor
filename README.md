@@ -17,6 +17,7 @@
 <h3>🖥️ Microsoft Power BI + Fabric Projects </h3>
 <ul>
   <li><b>Finance Report</b> <a href="https://github.com/NaomyChemungor/finance_report"> GitHub Repo</a></li>
+  <li><b>Finance Report</b> <a href="https://github.com/NaomyChemungor/analyzing_job_market"> GitHub Repo</a></li>
   <li><b>Analyzing_Job_Market</b> <a href=" https://github.com/NaomyChemungor/analyzing_job_market"> GitHub Repo</a></li>
   
 </ul>
