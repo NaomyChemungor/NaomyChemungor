@@ -1,7 +1,7 @@
 <h2>Hi, I'm Naomy! <br/>
   <a href="https://github.com/NaomyChemungor/">Analytics Engineer</a>,
   <a href ="https://www.linkedin.com/in/naomy-chemungor/">Data Scientist</a>,
-  <a href="https://medium.com/@naomychemungor">Medium</a>
+  <a href="https://medium.com/@analytics_engineer/">Medium</a>
 </h2>
 
 <!-- DATA SCIENCE PROJECTS -->
