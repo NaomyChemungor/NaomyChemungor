@@ -23,7 +23,7 @@
 
 
 <!-- POPULAR CONTENT -->
-<h3>✍️ Medium <a href="https://medium.com/@naomychemungor">@naomychemungor</a></h3>
+<h3>✍️ Medium<a href="https://medium.com/@bs_engineering-data/">Medium</a></h3>
 <ul>
   <li><b>Data Wrangling & ML modeling in Fabric</b> <a href="https://medium.com/@naomychemungor">Medium Blog</a></li>
 </ul>
