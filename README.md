@@ -1,7 +1,7 @@
 <h2>Hi, I'm Naomy! <br/>
   <a href="https://github.com/NaomyChemungor/">Analytics Engineer</a>,
   <a href ="https://www.linkedin.com/in/naomy-chemungor/">Data Scientist</a>,
-  <a href="https://medium.com/@bs_engineering-data/">Medium</a>
+  <a href="https://medium.com/@naomyjerono/">Medium</a>
 </h2>
 
 <!-- DATA SCIENCE PROJECTS -->
@@ -23,7 +23,7 @@
 
 
 <!-- POPULAR CONTENT -->
-<h3>✍️ Medium <a href="https://medium.com/@bs_engineering-data/">Medium</a></h3>
+<h3>✍️ Medium <a href="https://medium.com/@naomyjerono/">Medium</a></h3>
 <ul>
   <li><b>Data Wrangling & ML modeling in Fabric</b> <a href="https://medium.com/@naomychemungor">Medium Blog</a></li>
 </ul>
