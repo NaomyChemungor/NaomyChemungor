@@ -24,7 +24,7 @@
 <!-- POPULAR CONTENT -->
 <h3>✍️ Medium <a href="https://medium.com/@naomyjerono/"></a></h3>
 <ul>
-  <li><b>Data Wrangling & ML modeling in Fabric</b> <a [href="https://medium.com/@naomyjerono/data-wrangling-ml-modeling-in-microsfoft-fabric-d221660f313c"></a></li>
+ <a href="https://medium.com/@naomyjerono/data-wrangling-ml-modeling-in-microsfoft-fabric-d221660f313c">Data Wrangling & ML modeling in Fabric</a>
 </ul>
 
 
