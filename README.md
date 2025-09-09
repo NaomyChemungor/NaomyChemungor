@@ -4,7 +4,7 @@
 </h2>
 
 <!-- DATA SCIENCE PROJECTS -->
-<h3>🧠 Data Science: Modelling > ML/AI > Visualization Projects </h3>
+<h3>🧠 Analytics Projects </h3>
 <ul> 
   <li><b>Brand_Analysis_Facebook</b> – <a href="https://github.com/NaomyChemungor/Brand_Analysis_Facebook">Github Repo</a></li>
   <li><b>Traffic-exploratory-data-analysis</b> – <a href="https://github.com/NaomyChemungor/Traffic-exploratory-data-analysis">GitHub Repo</a></li>
