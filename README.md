@@ -1,6 +1,6 @@
 <h2>Hi, I'm Naomy! <br/>
-  <a href="https://github.com/NaomyChemungor/">Analytics Engineer</a>,
-  <a href ="https://www.linkedin.com/in/naomy-chemungor/">Data Scientist</a>,
+  <a href="https://github.com/NaomyChemungor/">Analytics & Business Intelligence(BI)</a>,
+  <a href ="https://www.linkedin.com/in/naomy-chemungor/">Data Engineer</a>,
   <a href="https://medium.com/@naomyjerono/">Medium</a>
 </h2>
 
@@ -25,7 +25,7 @@
 <!-- POPULAR CONTENT -->
 <h3>✍️ Medium <a href="https://medium.com/@naomyjerono/">Medium</a></h3>
 <ul>
-  <li><b>Data Wrangling & ML modeling in Fabric</b> <a href="https://medium.com/@naomychemungor">Medium Blog</a></li>
+  <li><b>Data Wrangling & ML modeling in Fabric</b> <a href="https://medium.com/@naomyjerono/">Medium Blog</a></li>
 </ul>
 
 
@@ -34,8 +34,5 @@
 <p>
   <a href="https://www.linkedin.com/in/naomychemungor/">
     <img align="left" alt="NaomyChemungor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://github.com/NaomyChemungor">
-    <img align="left" alt="NaomyChemungor | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 </p>
