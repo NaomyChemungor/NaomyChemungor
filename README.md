@@ -1,6 +1,5 @@
 <h2>Hi, I'm Naomy! <br/>
-  <a href="https://github.com/NaomyChemungor/">Analytics & Business Intelligence(BI)</a>,
-  <a href ="https://www.linkedin.com/in/naomy-chemungor/">Data Engineer</a>,
+  <a href ="https://www.linkedin.com/in/naomy-chemungor/">Data Engineer ,Analytics & Business Intelligence(BI)</a>,
   <a href="https://medium.com/@naomyjerono/">Medium</a>
 </h2>
 
