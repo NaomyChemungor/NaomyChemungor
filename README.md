@@ -22,7 +22,7 @@
 
 
 <!-- POPULAR CONTENT -->
-<h3>✍️ Medium <a href="https://medium.com/@naomyjerono/">Medium</a></h3>
+<h3>✍️ Medium <a href="https://medium.com/@naomyjerono/"></a></h3>
 <ul>
   <li><b>Data Wrangling & ML modeling in Fabric</b> <a href="https://medium.com/@naomyjerono/">Medium Blog</a></li>
 </ul>
