@@ -1,5 +1,5 @@
 <h2>Hi, I'm Naomy! <br/>
-  <a href ="https://www.linkedin.com/in/naomy-chemungor/">Data Engineer ,Analytics & Business Intelligence(BI)</a>,
+  <a href ="https://www.linkedin.com/in/naomy-chemungor/">Data Engineering,Analytics & Business Intelligence(BI)</a>,
   <a href="https://medium.com/@naomyjerono/">Medium</a>
 </h2>
 
