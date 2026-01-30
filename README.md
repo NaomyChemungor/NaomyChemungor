@@ -26,7 +26,7 @@
 <ul>
 <li> <a href="https://medium.com/@naomyjerono/data-wrangling-ml-modeling-in-microsfoft-fabric-d221660f313c">Data Wrangling & ML modeling in Fabric</a></li>
  <li><a href="https://medium.com/@naomyjerono/power-bi-reports-from-excel-243e5f5fbd75">Finance Power BI Report from Excel</a></li>
- <li><a href="https://medium.com/@naomyjerono/data-wrangling-ml-modeling-in-microsfoft-fabric-d221660f313c">Data Processing and Visualization Report: Fabric + Power BI</a></li>
+ <li><a href="https://medium.com/@naomyjerono/data-processing-and-visualization-report-fabric-power-bi-02ca9cb994fd)>Data Processing and Visualization Report: Fabric + Power BI"</a></li>
 </ul>
 
 
